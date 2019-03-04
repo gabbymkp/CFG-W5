@@ -1,0 +1,19 @@
+.b1img {
+    background-color: inherit;
+    background-position: center;
+    background-size: contain;
+}
+
+.b2img {
+  background-color: inherit;
+  background-position: right;
+  background-size: contain;
+}
+
+.b3img{
+  background-color: inherit;
+  background-position: left;
+  background-size: contain;
+  background-repeat: repeat-x;
+  
+}
